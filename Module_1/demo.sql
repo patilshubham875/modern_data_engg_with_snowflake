@@ -1,0 +1,1 @@
+drop database SNOWFLAKE_CURATED_DATA_FREE
